@@ -26,8 +26,8 @@ Quero trabalhar com essas Tecnologias em 2021
      
    [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/leandro10756646)
       [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/leandro-siqueira-9640211b0/)
-      [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&logoColor=white&link=https://www.Instagram.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/leandro-siqueira-9640211b0/)
-      [![Outlook](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Outlook&logoColor=white&link=https://www.Outlook.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/leandro-siqueira-9640211b0/)
+      [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&logoColor=white&link=https://www.Instagram.com/in/engincan-veske-b4a75b145/)](https://www.instagram.com/leandrosiq1/?hl=pt-br)
+      [![outlook](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Outlook&logoColor=white&link=https://www.Outlook.com/in/engincan-veske-b4a75b145/)](le_kts12@hotmail.com)
 
   
 "🚀 Aprendizado é que nem uma escada, aos poucos começamos a subir e cada vez chegamos mais alto "
