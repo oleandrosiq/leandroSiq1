@@ -31,9 +31,6 @@ Quero trabalhar com essas Tecnologias em 2021
 	<a href="https://twitter.com/leandro10756646">
     	 <img align="left" alt="LeandroSiq1 | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   	</a> &nbsp;&nbsp;
-   <a href="https://www.instagram.com/leandrosiq1/?hl=pt-br">
-    	 <img align="left" alt="LeandroSiq1 | Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  	</a> &nbsp;&nbsp;
 	<a href="le_kts12@hotmail.com">
     	 <img align="left" alt="LeandroSiq1 | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/outlook.svg" />
   	</a>
