@@ -24,12 +24,10 @@ Quero trabalhar com essas Tecnologias em 2021
         
 ⭐️ From [@leandrosiq1](https://www.instagram.com/leandrosiq1/?hl=pt-br)<br>
      
-   [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/leandro10756646)<br>
-      [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/leandro-siqueira-9640211b0/)<br>
-<p style="justify-content:center width: 100%">
-<a href="le_kts12@hotmail.com">
- <img align="left" alt="LeandroSiq1 | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/outlook.svg" />
- </a>
-</p>
+   [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/leandro10756646)
+      [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/leandro-siqueira-9640211b0/)
+      [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&logoColor=white&link=https://www.Instagram.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/leandro-siqueira-9640211b0/)
+      [![Outlook](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Outlook&logoColor=white&link=https://www.Outlook.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/leandro-siqueira-9640211b0/)
+
   
 "🚀 Aprendizado é que nem uma escada, aos poucos começamos a subir e cada vez chegamos mais alto "
