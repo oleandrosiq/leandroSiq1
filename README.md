@@ -9,7 +9,7 @@
  Entrei nesse mundo da Programação a Pouco tempo, Desejo muito trabalhar como Desenvolvedor Web.
  
 Estou estudando JavaScript e estou interessado em aprender React JS, Node e React Native quando eu ja estiver Dominando a base do JS...
-Quero trabalhar com essas Tecnologias em 2021 
+Quero trabalhar com essas Tecnologias.
  
  "🚀 quando seu superior passa uma tarefa para vc... veja isso como uma oportunidade de fazer a diferença!"
  
