@@ -6,10 +6,9 @@
 ### Hi there 👋
 
  Me Chamo Leandro, tenho 19 Anos, e sou Apaixonado por tecnologia !!
- Entrei nesse mundo da Programação a Pouco tempo, Desejo muito trabalhar como Desenvolvedor Web.
+ começei na área há mais ou menos 10 mêses, nesse tempo durante 8 mêses eu estava estudando enquanto eu ainda trabalhava, nao tinha muito tempo para estudar mais dava meu maximo pra focar e evoluir na área, e há 2 mêses atras eu resolvi sair do meu antigo trabalho e focar soamente em estudar o que eu amo que é Tecnologia, desde então eu venho focando em me tornar um Desenvolvedor Full-Stack.
  
-Estou estudando NodeJS e estou interessado em aprender React JS quando eu ja estiver Dominando a base do JS...
-Quero trabalhar com essas Tecnologias.
+Atualmente eu estou estudando sobre api-restFul com Node.js e React.js.
  
  "🚀 quando seu superior passa uma tarefa para vc... veja isso como uma oportunidade de fazer a diferença!"
  
