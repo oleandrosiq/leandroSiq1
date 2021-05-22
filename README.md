@@ -22,8 +22,8 @@ Atualmente eu estou estudando sobre Node.js e React.js.
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/leandroSiq1/)](https://github.com/leandroSiq1/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/leandroSiq1/)](https://github.com/leandroSiq1/) 
 
-API-RESTFUL
-SQLITE
+API-RESTFUL | 
+ SQLITE 
 
 - 📫 Como chegar até mim: ...        
         
