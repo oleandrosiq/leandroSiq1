@@ -7,7 +7,7 @@
 
  Me Chamo Leandro, tenho 19 Anos, e sou Apaixonado por tecnologia !!
  
- Começei na área há mais ou menos 10 mêses, nesse tempo durante 8 mêses eu estava estudando enquanto eu ainda trabalhava, nao tinha muito tempo para estudar mais dava meu maximo pra focar e evoluir na área, e há 2 mêses atras eu resolvi sair do meu antigo trabalho e focar soamente em estudar o que eu amo que é Tecnologia, desde então eu venho focando em me tornar um Desenvolvedor Full-Stack.
+ Começei na área há mais de 11 mêses, nesse tempo eu estive estudando e focando soamente nisso para trabalhar com o que eu amo que é Tecnologia, desde então eu venho focando para me tornar um Desenvolvedor Full-Stack.
  
 Atualmente eu estou estudando sobre Node.js e React.js.
  
@@ -23,6 +23,7 @@ Atualmente eu estou estudando sobre Node.js e React.js.
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/leandroSiq1/)](https://github.com/leandroSiq1/) 
 
 API-RESTFUL
+SQLITE
 
 - 📫 Como chegar até mim: ...        
         
