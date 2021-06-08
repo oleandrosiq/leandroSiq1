@@ -9,7 +9,7 @@
  
  Começei na área há mais de 11 mêses, nesse tempo eu estive estudando e focando soamente nisso para trabalhar com o que eu amo que é Tecnologia, desde então eu venho focando para me tornar um Desenvolvedor Full-Stack.
  
-Atualmente eu estou estudando sobre Node.js e React.js.
+Atualmente eu estou estudando sobre React.js.
  
  "🚀 quando seu superior passa uma tarefa para vc... veja isso como uma oportunidade de fazer a diferença!"
  
@@ -22,13 +22,9 @@ Atualmente eu estou estudando sobre Node.js e React.js.
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/leandroSiq1/)](https://github.com/leandroSiq1/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/leandroSiq1/)](https://github.com/leandroSiq1/) 
 
-API-RESTFUL | 
- SQLITE 
-
 - 📫 Como chegar até mim: ...        
         
 ⭐️ From [@leandrosiq1](https://www.instagram.com/leandrosiq1/?hl=pt-br)<br>
-   [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/leandro10756646)
       [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/leandro-siqueira-9640211b0/)
       [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&logoColor=white&link=https://www.Instagram.com/in/engincan-veske-b4a75b145/)](https://www.instagram.com/leandrosiq1/?hl=pt-br)<br>
      
