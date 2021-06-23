@@ -13,6 +13,19 @@ Atualmente eu estou estudando sobre React.js.
  
  "🚀 quando seu superior passa uma tarefa para vc... veja isso como uma oportunidade de fazer a diferença!"
  
+ <div>
+  <a href="https://github.com/leandrosiq1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrosiq1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosiq1&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="leandrosiq1-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="leandrosiq1-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="leandrosiq1-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="leandrosiq1-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="leandrosiq1-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
  ### 👨‍💻 Languages and Tools
  
 - 🌱 I’m currently learning Javascript <br>
@@ -21,10 +34,19 @@ Atualmente eu estou estudando sobre React.js.
 
 - 📫 Como chegar até mim: ...        
         
-⭐️ From [@leandrosiq1](https://www.instagram.com/leandrosiq1/?hl=pt-br)<br>
-      [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/leandro-siqueira-9640211b0/)
-      [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&logoColor=white&link=https://www.Instagram.com/in/engincan-veske-b4a75b145/)](https://www.instagram.com/leandrosiq1/?hl=pt-br)<br>
+⭐️ 
+ <div> 
+  <a href="https://www.instagram.com/leandrosiq1/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:le_kts12@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leandro-siqueira-9640211b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/leandrosiq1/leandrosiq1/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
      
 <p>Le_kts12@hotmail.com</p>
   
 "🚀 Aprendizado é que nem uma escada, aos poucos começamos a subir e cada vez chegamos mais alto "
+
+  ##
+ 
