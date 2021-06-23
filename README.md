@@ -17,7 +17,7 @@ Atualmente eu estou estudando sobre React.js.
  
 - 🌱 I’m currently learning Javascript <br>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/leandroSiq1/)](https://github.com/leandroSiq1/) 
-[![REACTJS](https://img.shields.io/badge/-REACTJS-1572B6?style=flat&logo=css3&link=https://github.com/leandroSiq1/)](https://github.com/leandroSiq1/) 
+[![REACTJS](https://img.shields.io/badge/-REACTJS-1572B6?style=flat&logo=reactjs&link=https://github.com/leandroSiq1/)](https://github.com/leandroSiq1/) 
 
 - 📫 Como chegar até mim: ...        
         
