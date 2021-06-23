@@ -5,9 +5,9 @@
 
 ### Hi there 👋
 
- Me Chamo Leandro, tenho 19 Anos, e sou Apaixonado por tecnologia !!
+ Me Chamo Leandro, tenho 20 Anos, e sou Apaixonado por tecnologia !!
  
- Começei na área há mais de 11 mêses, nesse tempo eu estive estudando e focando soamente nisso para trabalhar com o que eu amo que é Tecnologia, desde então eu venho focando para me tornar um Desenvolvedor Full-Stack.
+ Começei na área há um pouco mais de 11 mêses, nesse tempo eu estive estudando e focando soamente nisso para trabalhar com o que eu amo que é Tecnologia, desde então eu venho focado em me tornar um Desenvolvedor Front-End.
  
 Atualmente eu estou estudando sobre React.js.
  
@@ -17,10 +17,7 @@ Atualmente eu estou estudando sobre React.js.
  
 - 🌱 I’m currently learning Javascript <br>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/leandroSiq1/)](https://github.com/leandroSiq1/) 
-[![Node.js](https://img.shields.io/badge/-NODE.JS-black?style=flat&logo=node.js&link=https://github.com/leandroSiq1/)](https://github.com/leandroSiq1/)
-[![Mongo.DB](https://img.shields.io/badge/-MONGO.DB-black?style=flat&logo=mongo&db&link=https://github.com/leandroSiq1/)](https://github.com/leandroSiq1/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/leandroSiq1/)](https://github.com/leandroSiq1/) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/leandroSiq1/)](https://github.com/leandroSiq1/) 
+[![REACTJS](https://img.shields.io/badge/-REACTJS-1572B6?style=flat&logo=css3&link=https://github.com/leandroSiq1/)](https://github.com/leandroSiq1/) 
 
 - 📫 Como chegar até mim: ...        
         
