@@ -11,7 +11,7 @@
  
 Atualmente eu estou estudando sobre React.js.
  
- "🚀 quando seu superior passa uma tarefa para vc... veja isso como uma oportunidade de fazer a diferença!"
+ "🚀 quando seu superior passa uma tarefa para você... veja isso como uma oportunidade de fazer a diferença!"
  
  <div>
   <a href="https://github.com/leandrosiq1">
