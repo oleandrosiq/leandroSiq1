@@ -9,7 +9,7 @@
  
  Começei na área faz 1 ano e pouco, nesse tempo eu estive estudando e focando soamente nisso para trabalhar com o que eu amo que é Tecnologia, desde então eu venho focado em me tornar um Desenvolvedor Front-End.
  
-Atualmente eu estou estudando sobre React.js.
+Atualmente Trabalhando e Estudando com Next.js / React.js.
  
  "🚀 quando seu superior passa uma tarefa para você... veja isso como uma oportunidade de fazer a diferença!"
  
