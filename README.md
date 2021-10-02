@@ -7,7 +7,7 @@
 
  Me Chamo Leandro, tenho 20 Anos, e sou Apaixonado por tecnologia !!
  
- Começei na área faz 1 ano e pouco, nesse tempo eu estive estudando e focando soamente nisso para trabalhar com o que eu amo que é Tecnologia, desde então eu venho focado em me tornar um Desenvolvedor Front-End.
+ Comecei na área faz 1 ano e pouco, nesse tempo eu estive estudando e focando soamente nisso para trabalhar com o que eu amo que é Tecnologia, desde então eu venho focado em me tornar um Desenvolvedor Front-End.
  
 Atualmente Trabalhando e Estudando com Next.js / React.js.
  
