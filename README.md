@@ -16,12 +16,6 @@
 </p>
  
  "🚀 quando seu superior passa uma tarefa para você... veja isso como uma oportunidade de fazer a diferença!"
- 
- <div>
-  <a href="https://github.com/leandrosiq1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrosiq1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosiq1&layout=compact&langs_count=16&theme=dracula"/>
-</div>
 
  ### 👨‍💻 Languages and Tools
  <div style="display: inline_block">
