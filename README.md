@@ -5,11 +5,15 @@
 
 ### Hi there 👋
 
- Me Chamo Leandro, tenho 20 Anos, e sou Apaixonado por tecnologia !!
- 
- Comecei na área faz 1 ano e pouco, nesse tempo eu estive estudando e focando soamente nisso para trabalhar com o que eu amo que é Tecnologia, desde então eu venho focado em me tornar um Desenvolvedor Front-End.
- 
-Atualmente Trabalhando e Estudando com (Next.js / React.js / Typescript).
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+<p align="left"> 
+  🌎 Olá, meu nome é Leandro Siqueira. <strong>Desenvolvedor Front-End</strong>.
+</p>
+
+<p align="left">
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Next.js, Typescript e Styled Components.</strong>
+</p>
  
  "🚀 quando seu superior passa uma tarefa para você... veja isso como uma oportunidade de fazer a diferença!"
  
@@ -27,14 +31,25 @@ Atualmente Trabalhando e Estudando com (Next.js / React.js / Typescript).
   <img align="center" alt="leandrosiq1-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="leandrosiq1-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
-
  
-- 📫 Como chegar até mim: ...⭐️ 
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Figma, Trello, Vercel, Git e GitHub.</strong>
+</p>
+ 
+<p align="left">
+  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+</p>
+ 
  <div> 
-  <a href="https://www.instagram.com/leandrosiq1/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:le_kts12@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leandrosiq1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  
+  <a href="https://www.instagram.com/eusouleandrosiqueira/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/eusouleandrosiqueira/"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/leandrosiq1/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/leandrosiq1/"/>
+  </a>
 </div>
      
 <p>Le_kts12@hotmail.com</p>
