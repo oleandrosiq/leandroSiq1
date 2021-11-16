@@ -31,8 +31,6 @@
 <p align="left">
   💼 Ferramentas: <strong>VSCode, Figma, Trello, Vercel, Git e GitHub.</strong>
 </p>
-
- <br />
  
 <p align="left">
   💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
