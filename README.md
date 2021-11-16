@@ -27,7 +27,7 @@
  
  <div> 
   <a href="mailto:le_kts12@hotmail.com" alt="Email">
-    <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=mailto:le_kts12@hotmail.com"/>
+    <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=00FFFF&link=mailto:le_kts12@hotmail.com"/>
   </a>
   
   <a href="https://www.instagram.com/eusouleandrosiqueira/" alt="Instagram">
@@ -39,8 +39,6 @@
   </a>
 </div>
      
-<p>Le_kts12@hotmail.com</p>
-  
 "🚀 Aprendizado é que nem uma escada, aos poucos começamos a subir e cada vez chegamos mais alto "
 
   ##
