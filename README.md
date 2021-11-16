@@ -16,8 +16,6 @@
 </p>
  
  "🚀 quando seu superior passa uma tarefa para você... veja isso como uma oportunidade de fazer a diferença!"
-
- <br />
  
 <p align="left">
   💼 Ferramentas: <strong>VSCode, Figma, Trello, Vercel, Git e GitHub.</strong>
