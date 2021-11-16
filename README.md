@@ -25,10 +25,14 @@
   <img align="center" alt="leandrosiq1-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="leandrosiq1-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
+
+ <br />
  
 <p align="left">
   💼 Ferramentas: <strong>VSCode, Figma, Trello, Vercel, Git e GitHub.</strong>
 </p>
+
+ <br />
  
 <p align="left">
   💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
