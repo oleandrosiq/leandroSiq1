@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=00FFFF&link=mailto:le_kts12@hotmail.com"/>
   </a>
   
-  <a href="https://www.instagram.com/eusouleandrosiqueira/" alt="Instagram">
+  <a href="https://www.instagram.com/oleandrosiq/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/eusouleandrosiqueira/"/>
   </a>
   
