@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Next.js, Typescript e Styled Components.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Next.js, Typescript, Stitches, Styled Components.</strong>
 </p>
  
  "🚀 quando seu superior passa uma tarefa para você... veja isso como uma oportunidade de fazer a diferença!"
